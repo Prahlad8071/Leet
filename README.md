@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prahlad8071/Leet/tree/master/0001-two-sum) |
+| [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
 | [1095-find-in-mountain-array](https://github.com/Prahlad8071/Leet/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prahlad8071/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
 | [1095-find-in-mountain-array](https://github.com/Prahlad8071/Leet/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prahlad8071/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -41,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Prahlad8071/Leet/tree/master/1095-find-in-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
+## Prefix Sum
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
