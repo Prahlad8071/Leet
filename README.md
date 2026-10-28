@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prahlad8071/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prahlad8071/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Prahlad8071/Leet/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
 | [0905-sort-array-by-parity](https://github.com/Prahlad8071/Leet/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/Prahlad8071/Leet/tree/master/1046-last-stone-weight) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prahlad8071/Leet/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Prahlad8071/Leet/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Prahlad8071/Leet/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prahlad8071/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prahlad8071/Leet/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Prahlad8071/Leet/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prahlad8071/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -99,4 +103,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Prahlad8071/Leet/tree/master/0905-sort-array-by-parity) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
