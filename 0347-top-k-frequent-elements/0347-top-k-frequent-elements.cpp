@@ -10,12 +10,9 @@ public:
         for(auto x : mp){
             pq.push({x.second,x.first});
         }
-        int cnt = 0;
-        while(!pq.empty()){
+        while(k--){
             ans.push_back(pq.top().second);
             pq.pop();
-            cnt++;
-            if(cnt == k) break;
         }
         return ans;
     }
