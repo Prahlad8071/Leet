@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prahlad8071/Leet/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Prahlad8071/Leet/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/Prahlad8071/Leet/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prahlad8071/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prahlad8071/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prahlad8071/Leet/tree/master/0011-container-with-most-water) |
 | [0905-sort-array-by-parity](https://github.com/Prahlad8071/Leet/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Prahlad8071/Leet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
