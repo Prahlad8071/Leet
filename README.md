@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prahlad8071/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prahlad8071/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prahlad8071/Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prahlad8071/Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |
