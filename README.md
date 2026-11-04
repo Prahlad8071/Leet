@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prahlad8071/Leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Prahlad8071/Leet/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Prahlad8071/Leet/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Prahlad8071/Leet/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prahlad8071/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prahlad8071/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prahlad8071/Leet/tree/master/0048-rotate-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prahlad8071/Leet/tree/master/0048-rotate-image) |
 | [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prahlad8071/Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
