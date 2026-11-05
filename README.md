@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Prahlad8071/Leet/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Prahlad8071/Leet/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prahlad8071/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prahlad8071/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prahlad8071/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prahlad8071/Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
 | [1095-find-in-mountain-array](https://github.com/Prahlad8071/Leet/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prahlad8071/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prahlad8071/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prahlad8071/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Prahlad8071/Leet/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Prahlad8071/Leet/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prahlad8071/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prahlad8071/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prahlad8071/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Prahlad8071/Leet/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prahlad8071/Leet/tree/master/0011-container-with-most-water) |
 | [0905-sort-array-by-parity](https://github.com/Prahlad8071/Leet/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prahlad8071/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
