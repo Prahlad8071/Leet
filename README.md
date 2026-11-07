@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prahlad8071/Leet/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Prahlad8071/Leet/tree/master/0070-climbing-stairs) |
 | [0528-random-pick-with-weight](https://github.com/Prahlad8071/Leet/tree/master/0528-random-pick-with-weight) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prahlad8071/Leet/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prahlad8071/Leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prahlad8071/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Quicksort
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prahlad8071/Leet/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prahlad8071/Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
